@@ -1,11 +1,22 @@
+<div align="center">
+
 # Mayday Landing Assist
+
+[![Version](https://img.shields.io/badge/version-0.2.0-blue?style=flat-square)](LandingAssist/LandingRuntime.props)
+[![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square)](#状态)
+[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-lightgrey?style=flat-square)](LICENSE)
+[![Game](https://img.shields.io/badge/game-Mayday%20Airways-1f6feb?style=flat-square)](#)
+[![MelonLoader](https://img.shields.io/badge/MelonLoader-Il2Cpp%20net6-8a2be2?style=flat-square)](https://github.com/LavaGang/MelonLoader)
+[![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Twin](https://img.shields.io/badge/twin-JAX-FF6F00?style=flat-square)](tools/mayday_jax)
+
+**中文** | [English](README.en.md)
+
+</div>
 
 Mayday Airways 的进近与着陆辅助模组（实验性）。建议模式在左上角飞机卡片下方给出原生风格的手飞提示；全自动模式在五边接管，穿过五环、拉平、接地、开反推并刹停，之后交还操纵。玩家随时动杆即可收回操纵。
 
-An experimental approach and landing assistant for Mayday Airways. Advisor mode shows hand-flying cues in a native-style panel under the aircraft card. Full Auto mode takes over on final, flies the five rings, flares, touches down, uses reverse thrust, brakes to a stop and hands control back. Any stick input returns control to the pilot immediately.
-
 > 许可：[PolyForm Noncommercial 1.0.0](LICENSE)（SPDX：`PolyForm-Noncommercial-1.0.0`）。只允许非商业使用，再分发或修改时必须保留 `Required Notice` 作者声明。源码文件头带有 `SPDX-License-Identifier`。
-> License: PolyForm Noncommercial 1.0.0 (SPDX: `PolyForm-Noncommercial-1.0.0`). Noncommercial use only; redistributions and derivatives must keep the `Required Notice` lines. Source files carry an `SPDX-License-Identifier` header.
 
 ## 功能
 
