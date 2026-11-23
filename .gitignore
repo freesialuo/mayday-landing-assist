@@ -1,0 +1,37 @@
+# build output
+bin/
+obj/
+
+# packaged releases and experiment output (rebuild with LandingAssist/pack.ps1)
+dist/
+
+# private development material kept locally for reference: lab notes, run books,
+# full experiment records, candidate models with training metadata, cloud job scripts
+internal/
+
+# never commit game files, generated interop assemblies or decompiled game code
+*.dll
+*.pdb
+GameAssembly*
+global-metadata.dat
+re-work/
+
+# gameplay recordings
+*.jsonl
+rec/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

@@ -1,0 +1,12 @@
+# Normalise line endings; sources contain Chinese text and are UTF-8.
+* text=auto
+*.cs      text diff=csharp
+*.csproj  text
+*.json    text
+*.md      text
+*.py      text
+*.ps1     text eol=crlf
+*.maydaymod binary
+
+# Frozen model artifacts are identified by SHA-256: keep LF on every checkout.
+LandingAssist/Models/*.json text eol=lf
