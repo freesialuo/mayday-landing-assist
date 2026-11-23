@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../LandingRuntime.props" />
+  <PropertyGroup><DefineConstants>$(DefineConstants);LANDING_AUTO</DefineConstants></PropertyGroup>
+</Project>
