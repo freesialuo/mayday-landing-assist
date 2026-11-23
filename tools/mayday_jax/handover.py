@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Approach evaluation up to the flare handover, and DAgger data collection.
 
 The network flies the approach only; below HANDOVER_AGL the mod's rule-based

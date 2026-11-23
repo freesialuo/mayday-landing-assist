@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Phase D: student policy, behaviour cloning, and closed-loop evaluation.
 
 The student is a small MLP over the client-visible observation of

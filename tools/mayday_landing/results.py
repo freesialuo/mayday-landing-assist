@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Verify a downloaded result bundle and score complete flights at the supported latencies."""
 import argparse
 from collections import Counter

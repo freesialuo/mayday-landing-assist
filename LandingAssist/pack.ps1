@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 # Release: .\pack.ps1 -Candidate <policy.json>            -> <id>-<Version>.maydaymod, "(Experimental)", no probes
 # Test:    .\pack.ps1 -Candidate <policy.json> -Probe     -> <id>-<Version>-probe.maydaymod, probes and auto-recording on
 param([string] $Candidate, [switch] $Probe, [string] $Version = '0.2.0')

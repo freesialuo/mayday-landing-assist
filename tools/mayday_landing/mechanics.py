@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Engine state and weather observations for the Mayday landing simulator."""
 
 from typing import NamedTuple

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Run and resume a vectorized batch of randomized approach episodes."""
 
 from dataclasses import dataclass

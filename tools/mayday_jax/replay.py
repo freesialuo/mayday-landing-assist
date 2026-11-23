@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Compare the JAX twin with one-step snapshots from the game's FrameRecorder."""
 
 import argparse

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Privileged, causal MPPI for the Mayday game landing twin."""
 
 from dataclasses import dataclass

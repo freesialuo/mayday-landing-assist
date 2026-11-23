@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Portable bounded corrections to observable landing guidance."""
 
 import json

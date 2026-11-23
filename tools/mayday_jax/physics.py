@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Float32 JAX port of Twin/FlightSimT.cs and its TwinMath.cs tuning.
 
 Angles and angular rates use degrees and degrees/second. Positions are in

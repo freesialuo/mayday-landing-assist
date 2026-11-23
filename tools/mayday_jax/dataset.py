@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Teacher demonstrations for phase D behaviour cloning.
 
 Each sample pairs a client-visible observation (``observe``) with the MPPI

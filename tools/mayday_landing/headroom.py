@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Can a privileged MPPI teacher solve the episodes the observable prior fails?
 
 Reads an evaluation report, picks every seed with a supported-band (0-300 ms)

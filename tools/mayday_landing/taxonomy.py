@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Failure taxonomy and seed-bootstrap confidence intervals for experiment reports.
 
 Branches of one seed share an initial state, so resampling is by seed and every

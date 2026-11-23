@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Build a training-only Colab bundle. No binaries, gameplay recordings or credentials."""
 import argparse
 import hashlib

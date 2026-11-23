@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """CMA-ES search over the observable prior guidance gains in the twin.
 
 Each generation scores every candidate on the same fresh block of training

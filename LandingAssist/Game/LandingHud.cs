@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 using System;
 using System.Collections.Generic;
 using UnityEngine;

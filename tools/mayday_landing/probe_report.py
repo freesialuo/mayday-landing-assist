@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Summarize probe recordings (mayday-landing.probe/1) from in-game tests.
 
 Fidelity: the measured bank kick after each native front gust (the twin uses ±12°),

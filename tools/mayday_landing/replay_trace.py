@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Audit an M1 flight recording and optionally replay actual C# inference ticks with Python."""
 import argparse
 import hashlib

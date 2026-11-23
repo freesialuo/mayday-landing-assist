@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Seeded approach episodes for the Mayday Airways Demo flight twin.
 
 ControlLawT.cs supplies the manual rate law and envelopes. GatesT.cs supplies

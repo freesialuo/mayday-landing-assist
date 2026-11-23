@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Sample the kinematic fields of the game's client flight snapshots.
 
 Pass snapshots from the same world origin and a target in server time. Buffer

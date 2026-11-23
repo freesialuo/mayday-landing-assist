@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Bounded MPPI labels around the same observable prior the student will use."""
 
 import jax

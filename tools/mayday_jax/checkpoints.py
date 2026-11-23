@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Versioned PyTree checkpoints for local directories and mounted Google Drive."""
 
 from __future__ import annotations

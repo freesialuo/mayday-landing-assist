@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Train and evaluate two landing policies on disjoint, paired game-twin scenarios."""
 
 import argparse

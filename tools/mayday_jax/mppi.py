@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Phase C: privileged MPPI teacher for the approach environment.
 
 The teacher plans with the exact environment model, including each episode's

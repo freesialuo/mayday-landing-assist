@@ -4,8 +4,8 @@ Mayday Airways 的进近与着陆辅助模组（实验性）。建议模式在�
 
 An experimental approach and landing assistant for Mayday Airways. Advisor mode shows hand-flying cues in a native-style panel under the aircraft card. Full Auto mode takes over on final, flies the five rings, flares, touches down, uses reverse thrust, brakes to a stop and hands control back. Any stick input returns control to the pilot immediately.
 
-> 许可：[PolyForm Noncommercial 1.0.0](LICENSE)。只允许非商业使用，再分发或修改时必须保留 `Required Notice` 作者声明。
-> License: PolyForm Noncommercial 1.0.0. Noncommercial use only; redistributions and derivatives must keep the `Required Notice` lines.
+> 许可：[PolyForm Noncommercial 1.0.0](LICENSE)（SPDX：`PolyForm-Noncommercial-1.0.0`）。只允许非商业使用，再分发或修改时必须保留 `Required Notice` 作者声明。源码文件头带有 `SPDX-License-Identifier`。
+> License: PolyForm Noncommercial 1.0.0 (SPDX: `PolyForm-Noncommercial-1.0.0`). Noncommercial use only; redistributions and derivatives must keep the `Required Notice` lines. Source files carry an `SPDX-License-Identifier` header.
 
 ## 功能
 

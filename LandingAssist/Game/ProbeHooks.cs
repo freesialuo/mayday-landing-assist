@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 #if LANDING_AUTO
 using System;
 using System.Collections.Generic;

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """P4: truncated BPTT fine-tuning of a residual MLP through the differentiable twin near the ground.
 
 1. Fly the observable prior on training seeds and snapshot every episode the

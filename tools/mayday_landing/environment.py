@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Game twin for a continuous intercept, approach, and runway stop.
 
 The runway is flat and rectangular. Gate geometry uses the navigation aimpoint,

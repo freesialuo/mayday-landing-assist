@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Client-observable game-twin guidance for a bounded-residual experiment."""
 
 import jax.numpy as jnp

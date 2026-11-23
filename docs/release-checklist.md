@@ -13,8 +13,8 @@
 
 当前这次构建（2026-11-23）的正式版 SHA-256：
 
-- Auto：`9a6b47a61cd4affd3040443ed8bdf3a23afe5236180722b766c4d65770da4e02`
-- Advisor：`f9feeb85d754c68c3dd6f69ac4fa247ac54a9186c88c73db351860385eb6eb1c`
+- Auto：`7540674c6f6cf9ee5dc9f1cc4c252a139e63cd7244ac7b400fceb8cf6f453e1f`
+- Advisor：`983e91d256c5732be071027e4f4e333c06c1cfab1e18b3a49750f7f9ef3185e2`
 
 ## 1. 实机验收（用探针版，以房主身份）
 

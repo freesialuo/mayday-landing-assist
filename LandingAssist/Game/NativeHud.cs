@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 using System;
 using Il2CppMayday.UI;
 using Il2CppTMPro;

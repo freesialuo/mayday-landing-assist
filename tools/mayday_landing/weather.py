@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Opt-in, seeded weather profiles for the landing simulator."""
 
 from typing import NamedTuple

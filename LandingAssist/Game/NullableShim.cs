@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 // A referenced interop assembly exports System.Runtime.CompilerServices.NullableAttribute without the
 // constructors Roslyn needs (CS0656). Local definitions take precedence over referenced ones.
 namespace System.Runtime.CompilerServices

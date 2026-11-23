@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Ordered raw game inputs shared with the embedded .NET schema."""
 from importlib.resources import files
 
